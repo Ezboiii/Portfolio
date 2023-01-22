@@ -1,0 +1,23 @@
+main {
+
+    margin: 0;
+    padding: 0;
+    background-color:#ff6600;
+    text-align: center;
+    background: -webkit-linear-gradient(344.37deg, #EA2626 -21.04%, #0029FF 147.44%);
+      background: -o-linear-gradient(344.37deg, #EA2626 -21.04%, #0029FF 147.44%);
+      background: linear-gradient(105.63deg, #EA2626 -21.04%, #0029FF 147.44%); 
+}
+#about {
+    padding: 45px #54aef0;
+    color: white;
+}
+#about h2{
+    margin: 0;
+    font-size: 2.5rem #ff6600;
+    font-weight: 300;
+}
+#about p {
+    font-size: 1.3rem;
+    font-weight: 300;
+}

@@ -1,0 +1,54 @@
+.portfolio-form {
+    background-color: #bfbfbf;
+    text-align:center;
+    color: white;
+    padding: 30px 450px;
+}
+.portfolio-form h2 {
+    font-weight: 300;
+    text-transform: uppercase;
+    margin: 0;
+    padding-bottom: 30px;
+}
+
+.form-label {
+    padding: 10px 0px;
+    font-size: 1.3rem;
+}
+.form-input input{
+    width: 100%;
+    padding: 7px 0px;
+    border-radius: 8px;
+}
+form-input input:focus {
+    transition: .7s;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+.form-input-textarea {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    width: 100%;
+    padding: 7px 0px;
+    height: 200px;
+}
+
+.form-input-textarea textarea:focus {
+    transition: .7s;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+.form-submit {
+    margin-top: 5px;
+    text-align: right;
+}
+.btn-submit {
+    
+    padding: 5px 15px;
+    text-decoration: none;
+    color: white;
+    background-color: green;
+
+}

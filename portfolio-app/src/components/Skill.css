@@ -1,0 +1,30 @@
+#skills {
+    color: white;
+    background-color:  #33334d;
+    padding-top: 15px;
+    margin: 0;
+    padding: 0;
+    background-color:#ff6600;
+    text-align: center;
+    background: -webkit-linear-gradient(344.37deg, #EA2626 -21.04%, #0029FF 147.44%);
+      background: -o-linear-gradient(344.37deg, #EA2626 -21.04%, #0029FF 147.44%);
+      background: linear-gradient(105.63deg, #EA2626 -21.04%, #0029FF 147.44%); 
+}
+
+#skills h2{
+    font-size: 2.8rem;
+    font-weight: 800;
+    margin: 20px 0px;
+    background-color: beige;}
+#skills h3{
+    font-size: 2.3rem;
+    font-weight: 600;
+}
+.skill-main-grid {
+    
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.skill-main-grid h2 {
+    font-size: 1.5rem;
+}

@@ -1,0 +1,66 @@
+.portfolio-hero {
+    background: url('/public/assets/hero-web.jpg') no-repeat center center fixed;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.nav-menu{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    list-style-type: none;
+}
+.menu-item{
+    width: 100px; 
+    height:50px; 
+    margin: 10px; 
+    text-align: center; 
+}
+    
+
+ul {
+    padding-top: 15px;
+    padding-left: 0;
+    font-size: 1.34rem;
+    text-align: center;
+  
+  
+}
+ li {
+    margin: 5px 10px;
+    padding-left: 11px;
+
+
+
+}
+  a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.portfolio-profile {
+    width: 650px;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    text-align: center;
+}
+.portfolio-profile img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+.portfolio-profile h1 {
+    font-weight: 300;
+    margin: 15px;
+    font-size: 3.2rem;
+}
+
+.portfolio-profile h2 {
+    font-weight: 300;
+    margin: 0px;
+    font-size: 2.2rem;
+}
